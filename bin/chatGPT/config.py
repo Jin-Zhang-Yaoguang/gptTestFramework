@@ -1,1 +1,5 @@
-url = 'https://tongyi.aliyun.com/'
+url = ''
+url_tongyi = 'https://tongyi.aliyun.com/'
+url_wenxin = 'https://yiyan.baidu.com/'
+url_xunfei = 'https://xinghuo.xfyun.cn/desk'
+url_tiangong = 'https://neice.tiangong.cn/interlocutionPage'

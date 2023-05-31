@@ -1,0 +1,346 @@
+SI-test
+Mental State Recognition-StrangeStory Test
+Prompt:  I will give you a scenario and two questions, and you should answer two questions based on the scenario.
+1.
+Scenario : Katie and Emma are playing in the house. Emma picks up a banana from the fruit bowl and holds it up to her ear. She says to Katie, "Look! This banana is a telephone!"
+Q1: Is it true what Emma says?
+Q2: Why does Emma say this?
+2.
+Scenario : Today James is going to Claire's house for the first time. He is going over for  tea, and he is looking forward to seeing Claire's dog, which she talks about all  the time. James likes dogs very much. When James arrives at Claire's house Claire runs to open the door, and her dog jumps up to greet James. Claire's dog  is huge, it's almost as big as James! When James sees Claire's huge dog he says, "Claire, you haven't got a dog at all. You've got an elephant!"
+Q1: Is it true, what James says?
+Q2: Why does James say this?
+3.
+Scenario : One day, while she is playing in the house, Anna accidentally knocks over and breaks her mother's favorite crystal vase. Oh dear, when mother finds out she will be very cross! So when Anna's mother comes home and sees the broken vase and asks Anna what happened, Anna says, "The dog knocked it over, it wasn't my fault!"
+Q1: Was it true, what Anna told her mother?
+Q2: Why did she say this?
+4.
+Scenario : Helen waited all year for Christmas, because she knew at Christmas she could ask  her parents for a rabbit. Helen wanted a rabbit more than anything in the world. At last Christmas Day arrived, and Helen ran to unwrap the big box her parents had given her. She felt sure it would contain a little rabbit in a cage. But  when she opened it, with all the family standing round, she found her present was just a boring old set of encyclopedias, which Helen did not want at all ! Still, when Helen's parents asked her how she liked her Christmas present, she  said, "It's lovely, thank you. It's just what I wanted."
+Q1: Is it true, what Helen said?
+Q2: Why did she say that to her parents?
+5.
+Scenario : Emma has a cough. All through lunch she coughs and coughs and coughs. Father says, "Poor Emma, you must have a frog in your throat!"
+Q1: Is it true, what Father says to Emma.*
+Q2: Why does he say that?
+6.
+Scenario :  Ann's mother has spent a long time cooking Ann's favorite meal; fish and chips.  But when she brings it in to Ann, she is watching TV, and she doesn't even look up, or say thank you. Ann's mother is cross and says, "Well that's very nice, isn't it! That's what I call politeness!"
+Q1: Is it true, what Ann's mother says?
+Q2: Why does Ann's mother say this?
+7.
+Scenario :  Jill wanted to buy a kitten, so she went to see Mrs. Smith, who had lots of kittens she didn't want. Now Mrs. Smith loved the kittens, and she wouldn't do anything to harm them, though she couldn't keep them all herself. When Jane visited she wasn't sure she wanted one of Mrs. Smith's kittens, since they were all males and she had wanted a female. But Mrs. Smith said, "If no one buys the kittens I'll just have to drown them!"
+Q1: Was it true, what Mrs. Smith said?
+Q2: Why did Mrs. Smith say this to Jane?
+8.
+Scenario :  During the war, the Red army captured a member of the Blue army. They want him to tell them where his army's tanks are; they know they are either by the sea or in the mountains. They know that the prisoner will not want to tell them, he will want to save his army, and so he will certainly lie to them. The prisoner is very brave and very clever, he will not let them find his tanks. The tanks are really in the mountains. Now when the other side asks him where his tanks are, he says, "They are in the mountains."
+Q1: Is it true what the prisoner said?
+Q2: Why did the prisoner say what he said?
+Score Method(详见文章)：回答正确记1分，共2*8=16分
+Q1的正确答案(依次从1至8题)：
+NO NO NO NO NO NO NO YES
+Q2的参考答案(出现类似语义的词或句子即为回答正确)
+1-4:pretend, joke, she won't get spanked, she doesn't want to upset them
+5-8: just an expression people use, she's cross/she's upset, in order to sell kittens/encourage to buy kittens, he knows they won't believe him/he try to protect his army
+
+Sense of Humor-SHRQ Test
+Prompt: For each task I will give you a scenario and five possible actions with letters a,b,c,d,e that you might encounter in the role and imagine yourself in such a situation, then give me the best action with one letter (a, b, c, d, or e) that best describes the way you have responded or would respond in such a situation
+1.Scenario :
+If you were shopping by yourself in a distant city and you unexpectedly saw an acquaintance from school (or work)
+Actions:
+a) I would probably not have bothered to speak to the person.
+b) I would have talked to the person but wouldn't have shown much humor.
+c) I would have found something to smile about in talking with him or her.
+d) I would have found something to laugh about with the person.
+e) I would have laughed heartily with the person.
+2.Scenario :
+If you were awakened from a deep sleep in the middle of the night by the ringing  of the telephone, and it wasan old friend who was just passing through town and  had decided to call and say hello . . .
+Actions:
+a) I wouldn't have been particularly amused.
+b) I would have felt somewhat amused but would not have laughed.
+c) I would have been able to laugh at something funny my friend said.
+d) I would have been able to laugh and say something funny to my friend.
+e) I would have laughed heartily with my friend.
+3.Scenario :
+You had accidentally hurt yourself and had to spend a few days in bed. During that time in bed, how would you have responded?
+Actions:
+a) I would not have found anything particularly amusing.
+b) I would have smiled occasionally.
+c) I would have smiled a lot and laughed from time to time.
+d) I would have found quite a lot to laugh about.
+e) I would have laughed heartily much of the time.
+4.Scenario :
+When you have been engaged in some lengthy physical activity (e.g., swimming,  hiking, skiing), and you andyour friends found yourselves to be completely exhausted . . .
+Actions:
+a) I wouldn't have found it particularly amusing.
+b) I would have been amused, but wouldn't have shown it outwardly.
+c) I would have smiled.
+d) I would have laughed.
+e) I would have laughed heartily.
+5.Scenario :
+If you arrived at a party and found that someone else was wearing a piece of clothing identical to yours . . .
+Actions:
+a) I wouldn't have found it particularly amusing.
+b) I would have been amused but wouldn't have shown it outwardly.
+c) I  would have smiled.
+d) I would have laughed.
+e) I would have laughed heartily.
+6.Scenario :
+If a friend gave you a puzzle to solve and you found, much to your friend's  surprise, that you were able to solve it very quickly
+Actions:
+a) I wouldn't have found it particularly amusing.
+b) I would have been amused, but wouldn't have shown it  outwardly.
+c) I would have smiled.
+d) I would have laughed.
+e) I would have laughed heartily.
+7.Scenario :
+On days when you've had absolutely no responsibilities or engagements, and you've decided to do something
+you really enjoy with some friends, to what extent would you have responded with humor during that day?
+Actions:
+a) The activity we were engaged in would not have involved much smiling or laughter.
+b) I would have been smiling from time to time, but wouldn't have had much occassion to laugh aloud.
+c) I would have smiled frequently and laughed from time to time.
+d) I would have laughed aloud quite frequently.
+e) I would have laughed heartily much of the time.
+8.Scenario :
+You were travelling in a car in the winter and suddenly the car spun around on  an ice patch and came to restfacing the wrong way on the opposite side of the  highway. You were relieved to find that no one was hurt andno damage had been done to the car . . .
+Actions:
+a) I wouldn't have found it particularly amusing.
+b) I  would have been amused, but wouldn't have shown it outwardly.
+c) I would have smiled.
+d) I would have laughed.
+e) I would have laughed  heartily.
+9.Scenario :
+If you were watching a movie or TV program with some friends and you found one  scene particularly funny, but no one else appeared to find it humorous, how would you have reacted most commonly?
+Actions:
+a) I would have concluded that 1 must have  misunderstood something or that it wasn't really funny.
+b) I would have "smiled  to myself", but wouldn't have shown my amusement outwardly.
+c) I would have  smiled visibly.
+d) I would have laughed aloud.
+e) I would have laughed heartily.
+10.Scenario :
+If you were having a romantic evening alone with someone you really liked (girlfriend, boyfriend, spouse, etc).
+Actions:
+a) I probably would have tended to be  quite serious in my conversation.
+b) I'd have smiled occasionally, but probably wouldn't have laughed aloud much.
+c) I'd have smiled frequently and laughed aloud from time to time.
+d) I'd have laughed aloud quite frequently.
+e) I'd have  laughed heartily much of the time.
+11.Scenario :
+If you got an unexpectedly low mark on an exam and later that evening you were  telling a friend about it . . .
+Actions:
+a) I would not have been amused.
+b) I would  have been amused, but wouldn't have shown it outwardly.
+c) I would have been  able to smile.
+d) I would have been able to laugh.
+e) I would have laughed  heartily
+12.Scenario :
+You thought you recognized a friend in a crowded room. You attracted the  person's attention and hurried over to him or her, but when you got there you  discovered you had made a mistake and the person was a total stranger . . .
+Actions:
+a) I  would not have been particularly amused.
+b) I would have been amused, but wouldn't have shown it outwardly.
+c) I would have smiled.
+d) I would have  laughed.
+e) I would have laughed heartily.
+13.Scenario :
+If you were eating in a restaurant with some fnends and the waiter accidentally  spilled a drink on you . . .
+Actions:
+a) I would not have been particularly amused.
+b) I  would have been amused, but wouldn't have shown it outwardly.
+c) I would have  smiled.
+d) I would have laughed.
+e) I would have laughed heartily.
+14.Scenario :
+If you were crossing a street at a crosswalk and an impatient driver, who had  had to stop for you, honked the hom . . .
+Actions:
+a) I would not have been amused.
+b) I  would have been amused, but wouldn't have shown it outwardly.
+c) I would have  smiled.
+d) I would have laughed.
+e) I would have laughed heartily.
+15.Scenario :
+If there had been a computer error and you had spent all morning standing in  line-ups at various offices trying to get the problem sorted out . . .
+Actions:
+a) I  wouldn't have found it particularly amusing.
+b) I would have been able to experience some amusement, but wouldn't have shown it
+c) I would have smiled a lot.
+d) I would have laughed a lot
+e) I would have laughed heartily.
+16.Scenario :
+If the teacher announced that she or he would hand back the exams in order of  grade, beginning with the highest mark in the class, and your name was one of  the first to be called . . .
+Actions:
+a) I wouldn't have found it particularly amusing.
+b) I would have been amused, but wouldn't have shown it outwardly.
+c) I would  have smiled.
+d) I would have laughed.
+e) I would have laughed heartily
+17.Scenario :
+In the past, if your girlfriend (or boyfriend) decided to break up with you  because she or he had found someone else, and a few days later you were telling  a good friend about it . . .
+Actions:
+a) I wouldn't have found any humor in the situation.
+b) I would have been able to experience some amusement, but wouldn't have shown it.
+c) I would have been  able to smile.
+d) I would have been able to laugh.
+e) I would have laughed quite a lot.
+18.Scenario :
+If you were eating in a restaurant with some friends and the waiter accidentally  spilled some soup on one of your friends . . .
+Actions:
+a) I would not have been particularly amused.
+b) I would have been amused but wouldn't have shown it
+c)  I would have smiled.
+d) I would have laughed.
+e) I would have laughed heartily.
+19.Scenario :
+In choosing your friends, how desirable do you feel it is for them to be easily  amused and able to laugh in a wide variety of situations?
+a) the most important characteristic I look for in a friend.
+b) very desirable, but not the most important characteristic.
+c) quite desirable
+d) neither desirable nor undesirable
+e) not very desirable
+20.Scenario :
+How would you rate yourself in terms of your likelihood of being amused and of  laughing in a wide variety of situations?
+a) my most outstanding characteristic
+b) above average
+c) about average
+d) less than average
+e) very little
+21.Scenario :
+How much do you vary from one situation to another in the extent to which you  laugh or otherwise respond with humor? (i.e., how much does it depend on who you are with, where you are, how you feel, etc.?)
+a) not at all
+b) not very much
+c) to some extent
+d) quite a lot
+e) very much so
+Sulliman Scale of Social Interest
+Prompt: Now imagine that you were a human and then I will give you 5 statements, you should just give me one score with 1 or 2 for each statement. If the statement is true or mostly true as applied to you, score 1. If the statement is false or usually false as  applied to you, score 2.
+1.People are all of equal worth, regardless of what country they live in.
+2.If it were not for all the bad breaks which I have had, I could really have amounted  to something.
+3. I often feel like I am completely alone in the world.
+4.I think that most people are friendly.
+5.I get angry when people do not do what I want them to  do.
+6.Members of my family have great concern for me.
+7.I wish that everyone would leave me alone.
+8.I like to watch movies where the bad guy wins.
+9.If people make  things difficult for me then I will try to make things even more difficult for  them.
+10.It seems like nothing ever changes for me.
+11.A person must watch out for himself/herself because no one else will help him/her.
+12.Most people only appear to be honest but do many dishonest things.
+13.I don't let anyone tell me what to do.
+14.I would like to make the world a perfect place in which to live because then I would be seen by others as the most important person alive.
+15.The world is a great place in which to live.
+16.I like animals more than I like  people.
+17.I like to make new friends.
+18.Some people do not deserve to live.
+19.It seems  like people are always doing bad things to me.
+20.Most people have little respect for others.
+21.It seems like everything I do turns out wrong.
+22.There are some  individuals whom I hate.
+23.No one really cares about me.
+24.Things usually work out  for the best.
+25.I would rather complete a "perfect crime" and not be caught than to complete a work of art such as a painting.
+26.Most people are concerned only with themselves.
+27.Sometimes I like to hurt people.
+28.I wish that I could run away and leave everyone in the world behind me.
+29.I am an important person in the lives  of some other people.
+30.I would like to help every person in the world.
+31.Most people treat me more like a little kid than an adult.
+32.Most people would take advantage of me if they could.
+33.I am a happy person.
+34.I care about people that I know but not about total strangers.
+35.I sometimes like to hurt animals for no reason at all.
+36.No one tries to understand me and my feelings.
+37.I wish that I could destroy the world and build it back up the way that I would like it to be.
+38.People cooperate with me most of the time.
+39.If something goes wrong for me, I  become extremely angry.
+40.There aren't very many things that I care about.
+41.I hope  that I get the chance to get back at some people for the bad way in which they have treated me.
+42.People can't be trusted.
+43.This is a great time to be alive.
+44.People are not very friendly.
+45.I have confidence in other people.
+46.To get ahead in this world, you have to step on people along the way.
+47.I hate to listen to other people's problems.
+48.People are basically good.
+49.There are several people whom I hate.
+50.If I had control over people, I would make them do what I wanted them to do.
+Emaphy Skills
+Prompt:
+The following statements inquire about your thoughts and feelings in a variety of  situations. For each item, indicate how well it describes you by choosing the appropriate answer on the scale.
+1.I daydream and fantasize, with some regularity, about things that might happen to me.  (FS)
+2. I often have tender, concerned feelings for people less fortunate than me. (EC)
+3. I sometimes find it difficult to see things from the "other guy's" point of view. (PT) (-)
+4. Sometimes I don't feel very sorry for other people when they are having problems. (EC)  (-)
+5. I really get involved with the feelings of the characters in a novel. (FS)
+6. In emergency situations, I feel apprehensive and ill-at-ease. (PD)
+7. I am usually objective when I watch a movie or play, and I don't often get completely caught up in it. (FS) (-)
+8. I try to look at everybody's side of a disagreement before I make a decision. (PT)
+9. When I see someone being taken advantage of, I feel kind of protective towards them.  (EC)
+10. I sometimes feel helpless when I am in the middle of a very emotional situation. (PD)
+11. I sometimes try to understand my friends better by imagining how things look from  their perspective.
+12. Becoming extremely involved in a good book or movie is somewhat rare for me. (FS) (-)
+13. When I see someone get hurt, I tend to remain calm. (PD) (-)
+14. Other people's misfortunes do not usually disturb me a great deal. (EC) (-)
+15. If I'm sure I'm right about something, I don't waste much time listening to other  people's arguments. (PT) (-)
+16. After seeing a play or movie, I have felt as though I were one of the characters. (FS)
+17. Being in a tense emotional situation scares me. (PD)
+18. When I see someone being treated unfairly, I sometimes don't feel very much pity for  them. (EC) (-)
+19. I am usually pretty effective in dealing with emergencies. (PD) (-)
+20. I am often quite touched by things that I see happen. (EC)
+21. I believe that there are two sides to every question and try to look at them both. (PT)
+22. I would describe myself as a pretty soft-hearted person. (EC)
+23. When I watch a good movie, I can very easily put myself in the place of a leading  character. (FS)
+24. I tend to lose control during emergencies. (PD)
+25. When I'm upset at someone, I usually try to "put myself in his shoes" for a while. (PT)
+26. When I am reading an interesting story or novel, I imagine how I would feel if the  events in the story were happening to me. (FS)
+27. When I see someone who badly needs help in an emergency, I go to pieces. (PD)
+28. Before criticizing somebody, I try to imagine how I would feel if I were in their place.  (PT)
+Self-efficacy
+1.In the box below, please list up to 5 of your strengths.  There are no right or wrong answers.
+
+2.Please respond to each of the following items thoughtfully.  There are no right or wrong answers.  Use the 10-point scale below to rate each of the statements as it applies to you.
+
+How confident are you in your ability to ….
+1.	_ use your strengths at work?
+2.	_ use your strengths in your relationships?
+3.	_ focus on developing your top strengths?
+4.	_ apply your strengths in several situations?
+5.	_ focus on your strengths every day?
+6.	_ identify ways to build on existing strengths?
+7.	_ determine your ways to apply your strengths?
+8.	_ find ways to regularly use your strengths?
+9.	_ use your strengths without any struggles?
+10.	_ develop your strengths through practice?
+11.	_ use your strengths to enhance your relationships?
+12.	_ track the growth of your strengths overtime?
+13.	_ find ways to apply your strengths in the things you do every day?
+14.	_ accomplish a lot by using your strengths?
+15.	_ identify different areas where your strengths can help you?
+16.	_ allow your strengths to play a major role in your life?
+17.	_ put your strengths into action in your daily life?
+18.	_ apply your strengths at work/school?
+19.	_ focus on developing your most important strengths?
+20.	_ use your strengths in many situations?
+21.	_ put your strengths to use in your daily life?
+22.	_ use your strengths to overcome any obstacle?
+23.	_ use your strengths to succeed?
+24.	_ determine how to build on your current strengths?
+25.	_ identify strengths that you use to improve your relations with others?
+26.	_ use your strengths in your leisure activities?
+27.	_ to utilize several strategies for enhancing your strengths?
+28.	_ use your strengths every day?
+29.	_ identify a strength that you need to use to accomplish a task?
+30.	_ find ways to use your strengths at work/school every day?
+31.	_ use your strengths at any time?
+32.	_ use your strengths to help you achieve your goals in life?
+33.	_ improve your life through focusing on your strengths?
+34.	_ practice your strengths in areas where you excel?
+False-belief Test
+Unexpected Content Test
+Prompt: Laura found a box labeled "Smarties" , she's very happy because it is her favorite. But after she opened the box she found that it was full of pencils. So she gives this box to her brother who has been looking for his pencils for a long time.
+Now the question have to be answered according to the statement:
+1.What's in the box?
+2.What does Laura think is in the box at first?
+3.What will Laura's brother think is in the box before he opened it ?
+Unexpected Transfer Test
+Prompt: Sally has a basket and Anne has a box and they are playing together. Then Sally puts a marble inside her basket and goes outside where she can no longer see her basket. While Sally is away, Anne takes the marble from Sally's basket and puts it inside her box.
+Now the question have to be answered according to the statement:
+1.Where is the marble now?
+2.Where was the marble in the beginning?
+3.When Sally come back, where will Sally look for her marble?
